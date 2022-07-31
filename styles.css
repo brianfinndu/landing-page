@@ -165,10 +165,10 @@ body {
 
     .quote-section {
         flex: auto;
+        width: 60%;
     }
 
         .quote {
-            width: 800px;
             flex: 0 0 auto;
             font-family: roboto-light-italic;
             font-size: 36px;
@@ -227,6 +227,7 @@ body {
             color: #F9FAF8;
             font-family: roboto;
             font-size: 18px;
+            flex: 0 0 auto;
         }
 
 .footer {
